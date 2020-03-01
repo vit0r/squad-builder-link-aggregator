@@ -1,0 +1,22 @@
+{
+  "name": "squadbuilderlinkaggregator",
+  "version": "1.0.0",
+  "description": "Link aggregator on dashboard for streams",
+  "main": "bot.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "futbin",
+    "link",
+    "squad",
+    "builder",
+    "aggregator",
+    "dashboard"
+  ],
+  "author": "vit0r",
+  "license": "MIT",
+  "dependencies": {
+    "tmi.js": "^1.5.0"
+  }
+}
