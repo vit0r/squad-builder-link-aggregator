@@ -17,6 +17,6 @@
   "author": "vit0r",
   "license": "MIT",
   "dependencies": {
-    "tmi.js": "^1.5.0"
+    "tmi.js": "^1.8.5"
   }
 }
